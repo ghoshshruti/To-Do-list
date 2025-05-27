@@ -14,3 +14,5 @@ Features
 - Delete tasks from the list
 - Live task counter showing completed vs total tasks
 - Instant UI updates without page reload
+
+Clone this repo https://ghoshshruti.github.io/To-Do-list/
